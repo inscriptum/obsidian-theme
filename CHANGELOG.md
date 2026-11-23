@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [0.1.0] - 2026-11-23
 - A calm reading theme for Obsidian: neutral light and dark palettes, 18 px article text and a 700 px reading column.
 - Inter for interface and headings ships embedded offline (Cyrillic and Latin variable subsets), so documents render the same without network access.
 - Inscriptum `.note` and `.um` documents pick up the theme automatically, with no change to the plugin.

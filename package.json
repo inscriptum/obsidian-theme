@@ -1,6 +1,6 @@
 {
   "name": "@inscriptum/obsidian-theme",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "A calm, typography-focused Obsidian theme for writing with Inscriptum.",
   "license": "MIT",
