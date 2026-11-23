@@ -1,0 +1,22 @@
+{
+  "name": "@inscriptum/obsidian-theme",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A calm, typography-focused Obsidian theme for writing with Inscriptum.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inscriptum/obsidian-theme.git"
+  },
+  "scripts": {
+    "lint": "stylelint theme.css",
+    "test": "node scripts/run-tests.mjs",
+    "check": "npm run lint && npm run test && node scripts/check-release.mjs",
+    "release": "node scripts/release.mjs",
+    "dev:vault": "node scripts/dev-vault.mjs"
+  },
+  "devDependencies": {
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
