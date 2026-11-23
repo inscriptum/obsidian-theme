@@ -1,0 +1,421 @@
+{
+  "type": "noteDoc",
+  "content": [
+    {
+      "type": "noteTitle",
+      "attrs": {
+        "id": "lax920dj31"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Inscriptum"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "id": "176ypnaq9m",
+        "align": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Тема для спокойного письма: выразительная типографика, свободное пространство и внимание к содержанию."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "id": "ohouksn1ag",
+        "align": null,
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "От первой строки к готовой статье"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "id": "2z71lpk0un",
+        "align": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Собирайте наблюдения, связывайте идеи и находите точные слова. Книжный шрифт задаёт ритм чтения, а спокойные панели помогают сосредоточиться на тексте."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "attrs": {
+        "id": "ccnr5x2gat"
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "id": "wmcbbyymxe",
+            "align": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Хорошее оформление оставляет достаточно места для самой мысли."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "id": "fhwih0on3c",
+        "align": null,
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Одна среда — разные документы"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "attrs": {
+        "id": "sqv3zwakwx"
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "attrs": {
+            "id": "y7kkxvumnc"
+          },
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "id": "c7wf05ev0e",
+                "align": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Статьи и личные заметки"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "attrs": {
+            "id": "1v82avtxed"
+          },
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "id": "r78pyzgep4",
+                "align": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Таблицы, списки и фрагменты кода"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "attrs": {
+            "id": "uzp6lsob6w"
+          },
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "id": "yd8u4frmgs",
+                "align": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Светлая и тёмная палитры"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "attrs": {
+        "id": "4ffm00a2ke",
+        "data": {
+          "rowsCount": 3,
+          "colsCount": 2
+        },
+        "borders": null
+      },
+      "content": [
+        {
+          "type": "tableRow",
+          "attrs": {
+            "id": "lvkop9mlo8"
+          },
+          "content": [
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "id": "0b3nyfuxku",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  170
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "g8157n248v",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Основа"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "attrs": {
+                "id": "e7gmso3vev",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  430
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "pxk64kub8z",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Оформление"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "attrs": {
+            "id": "m3jkrweozs"
+          },
+          "content": [
+            {
+              "type": "tableCell",
+              "attrs": {
+                "id": "7ss27y4p5b",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  170
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "51zrj9q74j",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Текст"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "id": "7dlztu1dmn",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  170
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "jym4iafky8",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Georgia / системный serif"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "attrs": {
+            "id": "wq358332bp"
+          },
+          "content": [
+            {
+              "type": "tableCell",
+              "attrs": {
+                "id": "6yhpox57wi",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  170
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "ab9vp0b8jg",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Заголовки и интерфейс"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "attrs": {
+                "id": "tje6ftw6jd",
+                "colspan": 1,
+                "rowspan": 1,
+                "colwidth": [
+                  170
+                ],
+                "dataColor": null,
+                "backgroundColor": null,
+                "borders": null
+              },
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "id": "0w1e5xdj3k",
+                    "align": null
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inter, встроенный в тему"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hljsCodeBlock",
+      "attrs": {
+        "id": "e1fnbf1een",
+        "autocomplete": "off",
+        "autocorrect": "off",
+        "autocapitalize": "off",
+        "spellcheck": "false",
+        "class": "language-javascript",
+        "wrap": false
+      },
+      "content": [
+        {
+          "type": "hljsCodeBlockRow",
+          "attrs": {
+            "id": "xkepgpix9p",
+            "class": "l"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "const thought = \"Сначала — содержание\";"
+            }
+          ]
+        },
+        {
+          "type": "hljsCodeBlockRow",
+          "attrs": {
+            "id": "crhi00kymp",
+            "class": "l"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "console.log(thought);"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "id": "j9l40g2bv6",
+        "align": null
+      }
+    }
+  ]
+}
